@@ -1,0 +1,4 @@
+type: null
+data:
+  - key: a
+    value: [{ v: "a" }, { "v": "b" }]
