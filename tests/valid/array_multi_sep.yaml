@@ -2,4 +2,4 @@ type: null
 data:
   - key: A
     value:
-      - { "k": "a", "v": "d| b" }
+      - { k: "a", v: "d| b" }
