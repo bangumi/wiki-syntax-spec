@@ -1,4 +1,4 @@
-{{InfoBox
+{{Infobox
 | d = {
 a
 }
