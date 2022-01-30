@@ -1,6 +1,6 @@
 # Bangumi 现有的 wiki 语法的规范
 
-仓库状态: pre-alpha
+仓库状态: working in progress
 
 bangumi 现有的需要进行语法解析的有前端和后端两部分，各个语言应当对相同的内容解析出相同的结果。
 
