@@ -1,5 +1,6 @@
 type: null
 data:
   - key: A
-    value:
+    array: true
+    values:
       - { k: "a", v: "d| b" }

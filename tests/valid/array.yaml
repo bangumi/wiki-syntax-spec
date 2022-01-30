@@ -1,6 +1,7 @@
 type: null
 data:
   - key: a
-    value:
+    array: true
+    values:
       - { v: "a" }
       - { v: "b" }

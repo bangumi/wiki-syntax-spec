@@ -3,6 +3,7 @@ data:
   - { key: a, value: null }
   - { key: b, value: null }
   - key: d
-    value:
+    array: true
+    values:
       - { v: b }
       - { v: null }
