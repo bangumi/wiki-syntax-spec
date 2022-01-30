@@ -1,9 +1,9 @@
-type: null
+type: ""
 data:
-  - { key: a, value: null }
-  - { key: b, value: null }
+  - { key: a, value: "" }
+  - { key: b, value: "" }
   - key: d
     array: true
     values:
       - { v: "1" }
-      - { v: null }
+      - { v: "" }

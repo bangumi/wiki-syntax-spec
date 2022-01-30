@@ -1,8 +1,8 @@
-type: null
+type: ""
 data:
   - key: A
     array: true
     values:
-      - { "k": "a", "v": "b" }
-      - { "k": "c", "v": "d" }
-      - { "v": "e" }
+      - { v: "b", k: "a" }
+      - { v: "d", k: "c" }
+      - { v: "e" }
