@@ -5,5 +5,5 @@ data:
   - key: d
     array: true
     values:
-      - { v: b }
+      - { v: "1" }
       - { v: null }
