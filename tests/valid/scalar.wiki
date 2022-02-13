@@ -1,4 +1,4 @@
 {{Infobox
-|A=b
+|a=b
 |d=E
 }}

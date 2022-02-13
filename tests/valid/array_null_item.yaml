@@ -1,6 +1,6 @@
 type: ""
 data:
-  - { key: a, value: "" }
+  - { key: A, value: "" }
   - { key: b, value: "" }
   - key: d
     array: true
